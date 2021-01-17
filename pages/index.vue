@@ -3,21 +3,21 @@
     <div>
       <logo />
       <h1 class="title">
-        nuxtjs
+        orphico.in
       </h1>
       <h2 class="subtitle">
-        My astonishing Nuxt.js project
+        OrphiCoin is a work in progress
       </h2>
       <div class="links">
         <a
-          href="https://nuxtjs.org/"
+          href="https://orphic.enterprises/"
           target="_blank"
           class="button--green"
         >
           Documentation
         </a>
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://github.com/orphic-inc/ruby-orphic-cli"
           target="_blank"
           class="button--grey"
         >
